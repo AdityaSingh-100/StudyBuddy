@@ -31,6 +31,7 @@ ALLOWED_HOSTS = [
     '127.0.0.1',
     '0.0.0.0',
     'studybuddy-gg9l.onrender.com',
+    'studybuddy-3hks.onrender.com',
 ]
 
 
